@@ -158,6 +158,10 @@
     .contactForm{
         width: 100%;
     }
+    .container .contactInfo .box .text iframe{
+        width: 200;
+        height:200;
+    }
 }
 
 .contact .text-box{
