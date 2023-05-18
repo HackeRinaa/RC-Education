@@ -159,8 +159,8 @@
         width: 100%;
     }
     .container .contactInfo .box .text iframe{
-        width: 200;
-        height:200;
+        width: "200";
+        height:"200";
     }
 }
 
